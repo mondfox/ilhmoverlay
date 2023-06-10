@@ -1,0 +1,4 @@
+8x8 textures are from f8ithful
+dirt is from prism, grass side is prism/8x8 combined
+glass break sounds are from elodurs gemstone pack then repitched
+font is hackfont i think
